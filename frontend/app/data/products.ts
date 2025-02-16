@@ -33,7 +33,6 @@ export const products = [
   { id: 23, name: "Desinfetante", category: "Limpeza", price: 7.50, image: "https://via.placeholder.com/50" },
 ];
 
-// Gerar mais produtos até 200
 const categories = ["Alimentos", "Frutas", "Legumes", "Doces", "Balas", "Limpeza"];
 const productNames = ["Produto A", "Produto B", "Produto C", "Produto D", "Produto E", "Produto F"];
 
